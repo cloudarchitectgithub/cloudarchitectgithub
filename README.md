@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
 ## 💼 Featured Projects
 
 ### **🤖 AI Cloud Solutions**
+- **[Agentic AI Email Intelligence Platform](https://github.com/cloudarchitectgithub/Enterprise-Email-Intelligence-Platform)**  
+  Built an enterprise production ready multi-agent email automation system. The system is designed with a 3 tier fallback mechanism deployed on AWS that directly addresses client facing workflow needs.
 - **[HealthHub AI Assistant](https://github.com/cloudarchitectgithub/HealthHub-AI-Assistant)**  
   Implemented an AI agent for customer support and medical appointment scheduling using **OpenAI API**, **Functions (API Call)**, and **RAG (Retrieval-Augmented Generation)**.
 - **[HealthHub Vision AI](https://github.com/cloudarchitectgithub/HealthHub-Vision-AI)**  
@@ -31,9 +33,8 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
   Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
 - **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-AWS-Serverless-App)**  
   Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
-- **[Local RAG Implementation with DeepSeek and Ollama](https://github.com/cloudarchitectgithub/Local-RAG-Implementation-with-DeepSeek-and-Ollama)**
+- **[Local RAG Implementation with DeepSeek and Ollama](https://github.com/cloudarchitectgithub/Local-RAG-Implementation-with-DeepSeek-and-Ollama)**  
   Developed a local **Retrieval-Augmented Generation (RAG)** solution using **DeepSeek**, **Ollama**, and Python for privacy-focused AI inference.
-
 ### **☁️ AWS Solutions**
 - **[Automating Magento eCommerce Deployment](https://github.com/cloudarchitectgithub/Automating-Magento-eCommerce-Deployment-on-AWS-Using-Terraform-and-Ansible)**  
   Automated Magento deployment on AWS using **Terraform** and **Ansible**.
